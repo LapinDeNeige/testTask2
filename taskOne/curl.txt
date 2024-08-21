@@ -1,1 +1,0 @@
-curl -H 'Adrum:isAjax:true' -H 'content-length:34' -H 'content-type:application/x-www-form-urlencoded;charset=UTF-8' -H 'origin:https://www.alaskaair.com' --url  https://www.alaskaair.com/HomeWidget/GetCities
